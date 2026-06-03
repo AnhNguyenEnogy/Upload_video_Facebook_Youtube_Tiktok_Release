@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.0.2/tauri_app_1.0.2_x64-setup.exe",
-  "changelog": "Cập nhật phiên bản 1.0.2:\n- Sửa lỗi điều hướng Reels trên Facebook bị gián đoạn (Navigation interrupted).\n- Thêm nút Đăng ngay trực tiếp tại từng hàng của bảng quản lý tác vụ.\n- Thu gọn khoảng cách hàng bảng dẹt và gọn hơn, ghim cố định hàng tiêu đề bảng với màu Cyan nổi bật."
+  "version": "1.0.3",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.0.3/tauri_app_1.0.3_x64-setup.exe",
+  "changelog": "Cập nhật phiên bản 1.0.3:\n- Giữ nguyên danh sách bài đăng tại giao diện Đăng bài.\n- Cho phép Đăng ngay bất kể trạng thái công việc cũ (success, failed, skipped).\n- Tự động bỏ qua tác vụ không ở trạng thái PENDING để tránh trùng lặp."
 }
