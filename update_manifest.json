@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.0.6/tauri_app_1.0.6_x64-setup.exe",
-  "changelog": "Cập nhật phiên bản 1.0.4:\n- Sửa lỗi 'AttributeError: 'str' object has no attribute 'value'' khi bấm Đăng ngay hoặc bắt đầu tác vụ.\n- Tự động tắt các tiến trình chạy ngầm trước khi cài đặt hoặc gỡ cài đặt để tránh lỗi khóa tệp tin."
+  "version": "1.0.7",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.0.7/tauri_app_1.0.7_x64-setup.exe",
+  "changelog": "Cập nhật phiên bản 1.0.7:\n- Sửa lỗi đồng bộ và đăng đúng Page trên Facebook theo lựa chọn ở Combobox.\n- Cải tiến tốc độ và độ ổn định của luồng upload Reels, tối ưu hóa quá trình kiểm tra nút Thước phim bằng cơ chế Smart Wait.\n- Tích hợp thêm các cơ chế fallback khi các bước upload gặp sự cố."
 }
