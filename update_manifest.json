@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.1.1/NTA_auto_upload_video_1.1.1_x64-setup.exe",
+  "version": "1.1.2",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.1.2/NTA_auto_upload_video_1.1.2_x64-setup.exe",
   "changelog": "Cập nhật phiên bản 1.0.8:\n- Cố định đường dẫn Manifest kiểm tra cập nhật trên GitHub.\n- Loại bỏ ô cấu hình link manifest trên giao diện Cấu hình để tăng tính bảo mật.\n- Tối ưu hóa quy trình cập nhật tự động (Silent Update): tự động tắt app cũ, tự động chạy setup ẩn và tự khởi động lại app mới."
 }
