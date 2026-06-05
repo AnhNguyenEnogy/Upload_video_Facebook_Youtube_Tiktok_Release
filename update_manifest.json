@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.0.7/tauri_app_1.0.7_x64-setup.exe",
-  "changelog": "Cập nhật phiên bản 1.0.7:\n- Sửa lỗi đồng bộ và đăng đúng Page trên Facebook theo lựa chọn ở Combobox.\n- Cải tiến tốc độ và độ ổn định của luồng upload Reels, tối ưu hóa quá trình kiểm tra nút Thước phim bằng cơ chế Smart Wait.\n- Tích hợp thêm các cơ chế fallback khi các bước upload gặp sự cố."
+  "version": "1.0.8",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.0.8/tauri_app_1.0.8_x64-setup.exe",
+  "changelog": "Cập nhật phiên bản 1.0.8:\n- Cố định đường dẫn Manifest kiểm tra cập nhật trên GitHub.\n- Loại bỏ ô cấu hình link manifest trên giao diện Cấu hình để tăng tính bảo mật.\n- Tối ưu hóa quy trình cập nhật tự động (Silent Update): tự động tắt app cũ, tự động chạy setup ẩn và tự khởi động lại app mới."
 }
