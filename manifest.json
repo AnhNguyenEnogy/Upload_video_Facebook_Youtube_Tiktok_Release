@@ -2,5 +2,5 @@
   "version": "1.1.7",
   "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.1.7/VideoAutoUploader_v1.1.7.zip",
   "changelog": "Cập nhật phiên bản v1.1.7:\n- Tối ưu hóa quy trình khởi động: hiển thị giao diện chính lập tức dưới dạng làm mờ (blur).\n- Tích hợp overlay tiến trình kiểm tra bản quyền và nút Thử lại.\n- Hộp thoại yêu cầu nhập Key kích hoạt bản quyền hiển thị thông tin Machine ID và số điện thoại hỗ trợ.\n- Khóa tương tác toàn bộ giao diện cho đến khi hoàn thành xác thực bản quyền.",
-  "sha256": "aa094a34fc58235dfc076888a0a01ee1c4a4ee5e6e3f444aab8dc9863f40b826"
+  "sha256": "1e53cc5c2dd99b99c4a15fbe1becae7dfa7811953a2488a1bb0327f59fae6522"
 }
