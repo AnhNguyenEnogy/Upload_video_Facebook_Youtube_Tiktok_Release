@@ -1,6 +1,6 @@
 {
-  "version": "1.2.6",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.2.6/VideoAutoUploader_v1.2.6.zip",
-  "sha256": "cde8573b0034d661895d0c7a4f3ceaf25bbbee8260e28cb317373a0ce8afe51d",
+  "version": "1.2.7",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.2.7/VideoAutoUploader_v1.2.7.zip",
+  "sha256": "727582ec6d001a27b08593aad29de410366872aaab55b79197c5cfbe13b707ac",
   "changelog": "Bản cập nhật v1.2.6: Sửa lỗi tự động cập nhật, sửa lỗi điền caption trên Facebook Reels và khắc phục lỗi mất video nháp khi thay đổi Page."
 }
