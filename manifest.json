@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.2.1/VideoAutoUploader_v1.2.1.zip",
-  "sha256": "3908ceca9c369ba1627ad6cf14ea20ddb5b0829237e536a4813a94187746df5b",
-  "changelog": "Cập nhật phiên bản mới 1.1.9: Thêm kịch bản test tích hợp lên lịch nhiều page và sửa lỗi cập nhật ổn định."
+  "version": "1.2.2",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.2.2/VideoAutoUploader_v1.2.2.zip",
+  "sha256": "6e113c2aeab44d861e7955dca157d0dd658ee3b4b3c3b7f365c81dc3832d1359",
+  "changelog": "Cập nhật phiên bản mới 1.2.2: Thay đổi cơ chế cập nhật tự động an toàn, giữ nguyên dữ liệu cá nhân."
 }
