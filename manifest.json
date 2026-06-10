@@ -1,6 +1,6 @@
 {
-  "version": "1.2.4",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.2.3/VideoAutoUploader_v1.2.3.zip",
-  "sha256": "825bb1023ed0fb408c2a79d88c80586d58881e1d3c6d21cbba7a9b9b3245c787",
-  "changelog": "Bản cập nhật v1.2.4: Thử nghiệm cập nhật tự động qua giao diện."
+  "version": "1.2.5",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.2.5/VideoAutoUploader_v1.2.5.zip",
+  "sha256": "5f202ed94c3af85fce1e9d8c8478e5c26f5d3d9d7b5c8a20e9a58a452881c258",
+  "changelog": "Bản cập nhật v1.2.5: Chuyển đổi phương thức đóng gói sang thư mục độc lập (Standalone Folder) giúp tính năng tự động cập nhật hoạt động ổn định."
 }
