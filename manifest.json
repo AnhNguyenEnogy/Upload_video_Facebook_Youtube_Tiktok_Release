@@ -1,6 +1,6 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.2.3/VideoAutoUploader_v1.2.3.zip",
   "sha256": "825bb1023ed0fb408c2a79d88c80586d58881e1d3c6d21cbba7a9b9b3245c787",
-  "changelog": "Bản cập nhật v1.2.3: Khắc phục lỗi chọn file video dung lượng lớn hơn 50MB qua CDP."
+  "changelog": "Bản cập nhật v1.2.4: Thử nghiệm cập nhật tự động qua giao diện."
 }
