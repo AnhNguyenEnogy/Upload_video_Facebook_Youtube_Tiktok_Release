@@ -1,6 +1,6 @@
 {
-  "version": "1.3.3",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.3.3/VideoAutoUploader_v1.3.3.zip",
-  "sha256": "e1e3c1f0df391927518c980e07ae5680bc3f8161ea388b4559c40b3b0697c4aa",
-  "changelog": "Cập nhật v1.3.3: Khắc phục triệt để lỗi điều hướng nhầm Reels trên Facebook và thêm logic tự động click composer thước phim trên Page profile."
+  "version": "1.3.4",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.3.4/VideoAutoUploader_v1.3.4.zip",
+  "sha256": "9e3f6c2079d480ef89f49e2abfa5a6637d7cb3073af49708299cd78e48576efa",
+  "changelog": "Cập nhật v1.3.4: Tối ưu hóa bộ cập nhật tự động và hệ thống phân phối phiên bản mới."
 }
