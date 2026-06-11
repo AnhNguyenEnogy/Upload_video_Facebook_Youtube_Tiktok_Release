@@ -1,6 +1,6 @@
 {
   "version": "1.2.9",
   "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.2.9/VideoAutoUploader_v1.2.9.zip",
-  "sha256": "5f370c938264119262a30565663cd8a8bee29441809d53ec90163160ca0d9103",
+  "sha256": "93b9148804f8335bf42e69587f49f08a40bf5140a610b687882f3fc1d1f91606",
   "changelog": "Bản cập nhật v1.2.9: Sửa lỗi thiếu module Playwright khi chạy bản đóng gói exe."
 }
