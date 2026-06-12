@@ -1,6 +1,6 @@
 {
-  "version": "1.3.6",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.3.6/VideoAutoUploader_v1.3.6.zip",
-  "sha256": "05c7d3e7db0d59c1c26a44334fd35b8773b25e0fe4ba3a00ded86b2665e014f0",
-  "changelog": "Cập nhật v1.3.6: Khắc phục lỗi không tìm thấy nút Đăng Reel trên Facebook bằng cơ chế tìm kiếm JS nâng cao, tự động loại trừ các nút chia sẻ vào nhóm và nút lên lịch."
+  "version": "1.3.7",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.3.7/VideoAutoUploader_v1.3.7.zip",
+  "sha256": "5f3d73c5c0c1f4660244ab01ed56476f425e22e947077532eb5e9ab759035c6a",
+  "changelog": "Cập nhật v1.3.7: Cập nhật cơ chế tìm nút Đăng/Chia sẻ ưu tiên theo XPath chỉ định và các biến thể tương thích với giao diện mới của Facebook."
 }
