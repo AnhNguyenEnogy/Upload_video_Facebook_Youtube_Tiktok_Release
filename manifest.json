@@ -1,6 +1,6 @@
 {
-  "version": "1.3.5",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.3.5/VideoAutoUploader_v1.3.5.zip",
-  "sha256": "0aa91a176c99dda0c09d53fe303f5757595f967fcdb5ea561b4c66df4cfbaa3a",
-  "changelog": "Cập nhật v1.3.5: Cập nhật logo biểu tượng ứng dụng mới, sửa lỗi treo giao diện và lỗi bảo mật CSRF khi liên kết YouTube OAuth, mặc định tích chọn khai báo sử dụng AI (Altered Content)."
+  "version": "1.3.6",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.3.6/VideoAutoUploader_v1.3.6.zip",
+  "sha256": "7c2a969ae3410fae42fe1809e9d7457e78faf035b29669ce985813bdca513012",
+  "changelog": "Cập nhật v1.3.6: Khắc phục lỗi không tìm thấy nút Đăng Reel trên Facebook bằng cơ chế tìm kiếm JS nâng cao, tự động loại trừ các nút chia sẻ vào nhóm và nút lên lịch."
 }
