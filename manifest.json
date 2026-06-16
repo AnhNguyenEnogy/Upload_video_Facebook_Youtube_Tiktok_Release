@@ -1,6 +1,6 @@
 {
-  "version": "1.3.9",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.3.9/VideoAutoUploader_v1.3.9.zip",
-  "sha256": "1dc499db602f7f8b1004fff12bb22432baf5e97d62a7db9f12d5a8e948e2afb6",
-  "changelog": "Cập nhật v1.3.9: Sửa đổi thứ tự quy trình đăng Reels trên Facebook: Điền caption ở Bước 2 trước khi bấm Tiếp lần 2, rồi mới Đăng ở Bước 3. Tìm chính xác nút Thước phim."
+  "version": "1.4.0",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.4.0/VideoAutoUploader_v1.4.0.zip",
+  "sha256": "c2d61f41124565f7b1806bbd46ec986d787a63fa36ae38d88eed850bd47c4771",
+  "changelog": "Cập nhật v1.4.0: Sửa đổi thứ tự quy trình đăng Reels: Điền caption ở Bước 2, bấm Tiếp 2 và Đăng ở Bước 3. Ép kích thước cửa sổ Chrome 1920x1080 tránh bị che khuất nút Tải lên."
 }
