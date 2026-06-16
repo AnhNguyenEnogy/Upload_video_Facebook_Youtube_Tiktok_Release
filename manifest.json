@@ -1,6 +1,6 @@
 {
-  "version": "1.3.8",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.3.8/VideoAutoUploader_v1.3.8.zip",
-  "sha256": "39aeb87e786b76fa73e2f2c3bc6150264f5e8a4994f3adcc1d5bf4be22b6d26c",
-  "changelog": "Cập nhật v1.3.8: Tối ưu bộ lọc nhận dạng ô soạn thảo mô tả Reels tại Bước 3 trên Facebook giúp nhận diện chính xác và nhanh chóng."
+  "version": "1.3.9",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.3.9/VideoAutoUploader_v1.3.9.zip",
+  "sha256": "1dc499db602f7f8b1004fff12bb22432baf5e97d62a7db9f12d5a8e948e2afb6",
+  "changelog": "Cập nhật v1.3.9: Sửa đổi thứ tự quy trình đăng Reels trên Facebook: Điền caption ở Bước 2 trước khi bấm Tiếp lần 2, rồi mới Đăng ở Bước 3. Tìm chính xác nút Thước phim."
 }
