@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.4.0/VideoAutoUploader_v1.4.0.zip",
-  "sha256": "0735a00127a76c2edc94454bb16e871c2e1c10b4e39545d86d57dc464359b53c",
-  "changelog": "Cập nhật v1.4.0: Sửa đổi thứ tự quy trình đăng Reels: Điền caption ở Bước 2, bấm Tiếp 2 và Đăng ở Bước 3. Ép kích thước cửa sổ Chrome 1920x1080 tránh bị che khuất nút Tải lên."
+  "version": "1.4.1",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.4.1/VideoAutoUploader_v1.4.1.zip",
+  "sha256": "06a619eb645887b6be5a73cfa8c9ac59ce52bc2f05eb1a0fa7dbae88a0831ca4",
+  "changelog": "Cập nhật v1.4.1: Loại bỏ chế độ đăng Reels bằng API do Facebook chặn quyền pages_show_list, chuyển mặc định sang Meta Business Suite UI ẩn (Headless) và tích hợp cơ chế tự động thử lại 2 lần + fallback sang trình duyệt thường nếu bị lỗi."
 }
