@@ -1,6 +1,6 @@
 {
-  "version": "1.4.1",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.4.1/VideoAutoUploader_v1.4.1.zip",
-  "sha256": "5299c3203e9b29f1766ca27320e3b735250f5db6fe0cf4a60de6c3f3f889a717",
-  "changelog": "Cập nhật v1.4.1: Loại bỏ chế độ đăng Reels bằng API do Facebook chặn quyền pages_show_list, chuyển mặc định sang Meta Business Suite UI ẩn (Headless) và tích hợp cơ chế tự động thử lại 2 lần + fallback sang trình duyệt thường nếu bị lỗi."
+  "version": "1.4.2",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.4.2/VideoAutoUploader_v1.4.2.zip",
+  "sha256": "e7e90809b449dc22137552ffaaf8e5e9999f7f1bbcd79c200c259fcc5a9fcb17",
+  "changelog": "Cập nhật v1.4.2: Sửa lỗi mất dữ liệu danh sách bài đăng khi đổi tài khoản hoặc page (giữ nguyên dữ liệu bài đăng trên tab). Sửa lỗi dọn dẹp thư mục làm mất phiên đăng nhập cookies sau khi đóng gói. Cập nhật log hoàn tất gọn gàng chỉ ghi nhận Thành công / Thất bại."
 }
