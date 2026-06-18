@@ -1,6 +1,6 @@
 {
-  "version": "1.4.2",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.4.2/VideoAutoUploader_v1.4.2.zip",
-  "sha256": "e7e90809b449dc22137552ffaaf8e5e9999f7f1bbcd79c200c259fcc5a9fcb17",
-  "changelog": "Cập nhật v1.4.2: Sửa lỗi mất dữ liệu danh sách bài đăng khi đổi tài khoản hoặc page (giữ nguyên dữ liệu bài đăng trên tab). Sửa lỗi dọn dẹp thư mục làm mất phiên đăng nhập cookies sau khi đóng gói. Cập nhật log hoàn tất gọn gàng chỉ ghi nhận Thành công / Thất bại."
+  "version": "1.4.3",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.4.3/VideoAutoUploader_v1.4.3.zip",
+  "sha256": "eb7951c1b2fdea8e318e5a70f976a170515732e519c9d038f848955db84dff51",
+  "changelog": "Cập nhật v1.4.3: Khắc phục triệt để lỗi liên kết YouTube OAuth v3 và nâng cấp cơ chế dự phòng API an toàn."
 }
