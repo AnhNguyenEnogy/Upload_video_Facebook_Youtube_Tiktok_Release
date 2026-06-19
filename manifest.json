@@ -1,6 +1,6 @@
 {
-  "version": "1.4.3",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.4.3/VideoAutoUploader_v1.4.3.zip",
-  "sha256": "eb7951c1b2fdea8e318e5a70f976a170515732e519c9d038f848955db84dff51",
-  "changelog": "Cập nhật v1.4.3: Khắc phục triệt để lỗi liên kết YouTube OAuth v3 và nâng cấp cơ chế dự phòng API an toàn."
+  "version": "1.4.4",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.4.4/VideoAutoUploader_v1.4.4.zip",
+  "sha256": "1111f022e28ccba3dfd5e4854f0b19702c822a8bbf5e9b9ec596ef82f8628eb6",
+  "changelog": "Cập nhật v1.4.4: Tối ưu hóa tốc độ đăng Reels qua Meta Business Suite, truy cập trực tiếp Reels Composer và tự động xử lý nút Xong khi xuất hiện popup xử lý thước phim."
 }
