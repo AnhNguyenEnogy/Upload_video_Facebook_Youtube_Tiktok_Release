@@ -1,6 +1,6 @@
 {
-  "version": "1.4.4",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.4.4/VideoAutoUploader_v1.4.4.zip",
-  "sha256": "dffadc59fa2f37d25fbda5632ed0d38d6684e2709f968f1880074ab1bc243fe7",
-  "changelog": "Cập nhật v1.4.4: Tối ưu hóa tốc độ đăng Reels qua Meta Business Suite, truy cập trực tiếp Reels Composer và tự động xử lý nút Xong khi xuất hiện popup xử lý thước phim."
+  "version": "1.4.5",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.4.5/VideoAutoUploader_v1.4.5.zip",
+  "sha256": "7652d33e8febaf3c2289fcc849f5bc4af70badfeaf981278b861a42700abdcdf",
+  "changelog": "Cập nhật v1.4.5: Vô hiệu hóa tính năng ghi trạng thái đăng bài vào file Excel để bảo vệ và tránh làm mất/hỏng dữ liệu của người dùng."
 }
