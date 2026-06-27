@@ -1,6 +1,6 @@
 {
-  "version": "1.4.5",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.4.5/VideoAutoUploader_v1.4.5.zip",
-  "sha256": "7652d33e8febaf3c2289fcc849f5bc4af70badfeaf981278b861a42700abdcdf",
-  "changelog": "Cập nhật v1.4.5: Vô hiệu hóa tính năng ghi trạng thái đăng bài vào file Excel để bảo vệ và tránh làm mất/hỏng dữ liệu của người dùng."
+  "version": "1.4.6",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.4.6/VideoAutoUploader_v1.4.6.zip",
+  "sha256": "3e0c3cfa2cb77bc46dc4b9a02a44be08f6de3e296087619648ff49e91ab842f5",
+  "changelog": "Bản cập nhật v1.4.6: Vô hiệu hóa việc ghi trạng thái status trực tiếp vào file Excel gốc để tránh xung đột khóa file Excel, đồng thời nâng cao độ ổn định khi nạp dữ liệu."
 }
