@@ -1,6 +1,6 @@
 {
-  "version": "1.4.6",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.4.6/VideoAutoUploader_v1.4.6.zip",
-  "sha256": "3e0c3cfa2cb77bc46dc4b9a02a44be08f6de3e296087619648ff49e91ab842f5",
-  "changelog": "Bản cập nhật v1.4.6: Vô hiệu hóa việc ghi trạng thái status trực tiếp vào file Excel gốc để tránh xung đột khóa file Excel, đồng thời nâng cao độ ổn định khi nạp dữ liệu."
+  "version": "1.4.7",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.4.7/VideoAutoUploader_v1.4.7.zip",
+  "sha256": "6552bf6c0beee9d70cc44ce2bdd645fe4da4ed0784a6de65aa35a6b433148319",
+  "changelog": "Bản cập nhật v1.4.7: Sửa lại cấu trúc load nội dung Excel, tự động copy nguyên vẹn toàn bộ nội dung của ô Excel làm caption mà không cần điều kiện chữ facebook, đảm bảo không bỏ sót dòng."
 }
