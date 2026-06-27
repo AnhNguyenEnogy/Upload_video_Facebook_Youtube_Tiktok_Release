@@ -1,6 +1,6 @@
 {
-  "version": "1.4.7",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.4.7/VideoAutoUploader_v1.4.7.zip",
-  "sha256": "6552bf6c0beee9d70cc44ce2bdd645fe4da4ed0784a6de65aa35a6b433148319",
-  "changelog": "Bản cập nhật v1.4.7: Sửa lại cấu trúc load nội dung Excel, tự động copy nguyên vẹn toàn bộ nội dung của ô Excel làm caption mà không cần điều kiện chữ facebook, đảm bảo không bỏ sót dòng."
+  "version": "1.4.8",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.4.8/VideoAutoUploader_v1.4.8.zip",
+  "sha256": "a62a3ae252950289b462321a1b8571e0f65ec1eb2a644c0419ee9911dc698ccd",
+  "changelog": "Bản cập nhật v1.4.8: Cập nhật logo và biểu tượng (icon) chính thức mới cho phần mềm."
 }
