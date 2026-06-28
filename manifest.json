@@ -1,6 +1,6 @@
 {
-  "version": "1.4.8",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.4.8/VideoAutoUploader_v1.4.8.zip",
-  "sha256": "6cef6693e7684b99a76ff2ef0c01d12ab7246b57b1f863a909d877ff552316fa",
-  "changelog": "Bản cập nhật v1.4.8: Cập nhật logo và biểu tượng (icon) chính thức mới cho phần mềm."
+  "version": "1.5.0",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.5.0/VideoAutoUploader_v1.5.0.zip",
+  "sha256": "40d56a71340e4e7f3483fb33769483f9e11c1dee6d86c4057ed405432a49eae1",
+  "changelog": "Cập nhật v1.5.0: Vô hiệu hóa tính năng ghi trạng thái đăng bài vào file Excel; Thiết lập thông báo popup thành công/thất bại tự động đóng sau 5 giây."
 }
