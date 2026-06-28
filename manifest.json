@@ -1,6 +1,6 @@
 {
-  "version": "1.5.1",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.5.1/VideoAutoUploader_v1.5.1.zip",
-  "sha256": "e02da895c9c66274f4d0d21e6aad11e7107deeb9c1c4e4258037d6b165f27e47",
-  "changelog": "Cập nhật v1.5.1: Bản thử nghiệm sửa lỗi lock file khi cập nhật tự động."
+  "version": "1.5.2",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.5.2/VideoAutoUploader_v1.5.2.zip",
+  "sha256": "0d98c058af3194485d950a3789e619da1a41ec3abacab709f17a7f76b3e464aa",
+  "changelog": "Cập nhật v1.5.2: Cải tiến đọc nội dung Excel (không cần FB, nhận diện thêm tiêu đề cột link video/link local/mô tả/Nội Dung/content)."
 }
