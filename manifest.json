@@ -1,6 +1,6 @@
 {
-  "version": "1.5.3",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.5.3/VideoAutoUploader_v1.5.3.zip",
-  "sha256": "799f3c3b66a282052e861bec9189f6d475987ef8a9b01812eb11557f1d52310d",
-  "changelog": "Cập nhật v1.5.3: Thay đổi màu sắc và thiết kế logo icon mới sang trọng hơn."
+  "version": "1.5.4",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.5.4/VideoAutoUploader_v1.5.4.zip",
+  "sha256": "b5ed5f8148ad64401f85a627dc972e9c511a1afb5e8f7a132ffcc3ed24eedc00",
+  "changelog": "Cập nhật v1.5.4: Hoàn tất tích hợp logo mới Vàng Sáng to sát viền và cải tiến bộ đọc Excel (đọc toàn bộ ô nội dung không cần FB, nhận diện thêm các tiêu đề cột link video, link local, mô tả, content, Nội Dung)."
 }
