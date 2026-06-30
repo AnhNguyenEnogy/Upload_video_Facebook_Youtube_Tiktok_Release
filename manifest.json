@@ -1,6 +1,6 @@
 {
-  "version": "1.5.6",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.5.6/VideoAutoUploader_v1.5.6.zip",
-  "sha256": "4ba4626eeb81d26a662a16e6c0533b68df84237ed0597dcc60448d73d74df01e",
-  "changelog": "Cập nhật v1.5.6: Cập nhật sửa lỗi hệ thống xác thực bản quyền, bỏ qua cơ chế chạy offline, cải tiến hiển thị khóa và ngăn chặn đóng ứng dụng im lặng."
+  "version": "1.5.7",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.5.7/VideoAutoUploader_v1.5.7.zip",
+  "sha256": "360a8d3508485a059bcff104343d4f2185a76921c84d0c572dd9abf89ce03817",
+  "changelog": "Cập nhật v1.5.7: Sửa luồng chọn thumbnail Facebook (click tab Chọn khung → mở dialog → kéo filmstrip → Lưu hình thu nhỏ), tắt âm thanh Chrome khi đăng, giảm thời gian chờ sau đăng xuống 30s."
 }
