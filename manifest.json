@@ -1,6 +1,6 @@
 {
   "version": "1.5.8",
   "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.5.8/VideoAutoUploader_v1.5.8.zip",
-  "sha256": "9bb57140a37411dec3fcc322f6dbefeda2f997875e024ada7e1b2d2457db5c0e",
-  "changelog": "Cập nhật v1.5.8: Thêm module auto-reply comment Facebook (backend: collector, AI responder, browser replier, scheduler). Giao diện tạm ẩn. Sửa lỗi crash thread-safety khi quét comment. Build standalone (không onefile)."
+  "sha256": "c92a6867adf9fb9c7d4e2ec7b8f79e41db8bb268716bd38838b16186323e9ac3",
+  "changelog": "Cập nhật v1.5.8: Thêm module auto-reply comment Facebook (backend: collector, AI responder, browser replier, scheduler). Giao diện tạm ẩn. Sửa lỗi crash thread-safety khi quét comment. Build Nuitka standalone, không onefile. ZIP chứa VideoAutoUploader.exe và update.exe đúng chuẩn auto-update."
 }
