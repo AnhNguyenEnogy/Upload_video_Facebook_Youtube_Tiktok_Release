@@ -1,6 +1,6 @@
 {
-  "version": "1.5.7",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.5.7/VideoAutoUploader_v1.5.7.zip",
-  "sha256": "360a8d3508485a059bcff104343d4f2185a76921c84d0c572dd9abf89ce03817",
-  "changelog": "Cập nhật v1.5.7: Sửa luồng chọn thumbnail Facebook (click tab Chọn khung → mở dialog → kéo filmstrip → Lưu hình thu nhỏ), tắt âm thanh Chrome khi đăng, giảm thời gian chờ sau đăng xuống 30s."
+  "version": "1.5.8",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.5.8/VideoAutoUploader_v1.5.8.zip",
+  "sha256": "9bb57140a37411dec3fcc322f6dbefeda2f997875e024ada7e1b2d2457db5c0e",
+  "changelog": "Cập nhật v1.5.8: Thêm module auto-reply comment Facebook (backend: collector, AI responder, browser replier, scheduler). Giao diện tạm ẩn. Sửa lỗi crash thread-safety khi quét comment. Build standalone (không onefile)."
 }
