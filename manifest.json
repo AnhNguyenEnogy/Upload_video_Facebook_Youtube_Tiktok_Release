@@ -1,6 +1,6 @@
 {
-  "version": "1.5.5",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.5.5/VideoAutoUploader_v1.5.5.zip",
-  "sha256": "46d687cc617b798e00b1c92f30ea52b2fd4af38e100734d0f840301c4ad56564",
-  "changelog": "Cập nhật v1.5.5: Thêm checkbox 'Thumbnail cuối video' cho phép chọn/bỏ chọn ảnh thu nhỏ cuối video, cơ chế retry thumbnail với error recovery, tắt cảnh báo Chrome no-sandbox."
+  "version": "1.5.6",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.5.6/VideoAutoUploader_v1.5.6.zip",
+  "sha256": "4ba4626eeb81d26a662a16e6c0533b68df84237ed0597dcc60448d73d74df01e",
+  "changelog": "Cập nhật v1.5.6: Cập nhật sửa lỗi hệ thống xác thực bản quyền, bỏ qua cơ chế chạy offline, cải tiến hiển thị khóa và ngăn chặn đóng ứng dụng im lặng."
 }
