@@ -1,6 +1,6 @@
 {
-  "version": "1.5.4",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.5.4/VideoAutoUploader_v1.5.4.zip",
-  "sha256": "b5ed5f8148ad64401f85a627dc972e9c511a1afb5e8f7a132ffcc3ed24eedc00",
-  "changelog": "Cập nhật v1.5.4: Hoàn tất tích hợp logo mới Vàng Sáng to sát viền và cải tiến bộ đọc Excel (đọc toàn bộ ô nội dung không cần FB, nhận diện thêm các tiêu đề cột link video, link local, mô tả, content, Nội Dung)."
+  "version": "1.5.5",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.5.5/VideoAutoUploader_v1.5.5.zip",
+  "sha256": "df216dc3f5193d32e0e2f2783fbb3fabea10b8b82bb3131109a0fe7c6768b14d",
+  "changelog": "Cập nhật v1.5.5: Thêm checkbox 'Thumbnail cuối video' cho phép chọn/bỏ chọn ảnh thu nhỏ cuối video, cơ chế retry thumbnail với error recovery, tắt cảnh báo Chrome no-sandbox."
 }
