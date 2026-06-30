@@ -1,6 +1,6 @@
 {
-  "version": "1.5.9",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.5.9/VideoAutoUploader_v1.5.9.zip",
-  "sha256": "56324b290d6a691a6d92e5bda8f8489db56344d180496d72f246e385c73e3e9a",
-  "changelog": "Cập nhật v1.5.9: Gói update ZIP có mật khẩu ntaupload345345. Updater đã hỗ trợ giải nén bằng mật khẩu này. Build Nuitka standalone, ZIP chứa VideoAutoUploader.exe và update.exe."
+  "version": "1.5.10",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.5.10/VideoAutoUploader_v1.5.10.zip",
+  "sha256": "ca8a5b2ac249ad3b3d96a44f2d4ab59c4e3c305aa3961291c39d639e5a38af3c",
+  "changelog": "Cập nhật v1.5.10: Sửa quy trình build đúng chuẩn. App chính build Nuitka standalone từ main.py, output VideoAutoUploader.exe. Updater update.exe build onefile để tự thay thế an toàn. Thêm chặn gói update sai cấu trúc để không chạy nhầm exe khác. ZIP có mật khẩu ntaupload345345."
 }
