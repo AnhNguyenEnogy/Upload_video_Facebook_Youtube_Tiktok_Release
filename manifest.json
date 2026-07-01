@@ -1,6 +1,6 @@
 {
-  "version": "1.5.10",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.5.10/VideoAutoUploader_v1.5.10.zip",
-  "sha256": "ca8a5b2ac249ad3b3d96a44f2d4ab59c4e3c305aa3961291c39d639e5a38af3c",
-  "changelog": "Cập nhật v1.5.10: Sửa quy trình build đúng chuẩn. App chính build Nuitka standalone từ main.py, output VideoAutoUploader.exe. Updater update.exe build onefile để tự thay thế an toàn. Thêm chặn gói update sai cấu trúc để không chạy nhầm exe khác. ZIP có mật khẩu ntaupload345345."
+  "version": "1.6.0",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.6.0/VideoAutoUploader_v1.6.0.zip",
+  "sha256": "6c5829cb8c00f68e450d552f55caa648390c01336b012b41e1418072cb717cb9",
+  "changelog": "Cập nhật v1.6.0: Sửa mở Chrome profile dùng subprocess trực tiếp, tránh ShellExecuteW/focus nhầm cửa sổ. Cải thiện chọn thumbnail Facebook Reels: cuộn dialog xuống vùng thanh trượt để kích hoạt load khung hình, cầm handle/thanh trượt kéo tới cuối video."
 }
