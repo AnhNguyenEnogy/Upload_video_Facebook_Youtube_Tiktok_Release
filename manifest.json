@@ -1,6 +1,6 @@
 {
-  "version": "1.6.0",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.6.0/VideoAutoUploader_v1.6.0.zip",
-  "sha256": "6c5829cb8c00f68e450d552f55caa648390c01336b012b41e1418072cb717cb9",
-  "changelog": "Cập nhật v1.6.0: Sửa mở Chrome profile dùng subprocess trực tiếp, tránh ShellExecuteW/focus nhầm cửa sổ. Cải thiện chọn thumbnail Facebook Reels: cuộn dialog xuống vùng thanh trượt để kích hoạt load khung hình, cầm handle/thanh trượt kéo tới cuối video."
+  "version": "1.6.1",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.6.1/VideoAutoUploader_v1.6.1.zip",
+  "sha256": "308e91c891520ce74695375930d215fd5d8f246e8e7e114991e2aaff97d20884",
+  "changelog": "Cập nhật v1.6.1: Thêm popup báo lỗi cụ thể khi startup/import GUI/runtime GUI lỗi, ghi startup_error.log và fatal_crash.log để tránh tool tắt im lặng. Mặc định upload bằng meta_business và bật Chrome headless."
 }
