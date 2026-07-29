@@ -1,6 +1,6 @@
 {
-  "version": "1.6.0",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.6.0/VideoAutoUploader_v1.6.0.zip",
-  "sha256": "sha256:6c5829cb8c00f68e450d552f55caa648390c01336b012b41e1418072cb717cb9",
-  "changelog": "Cập nhật v1.6.0: Thêm popup báo lỗi cụ thể khi startup/import GUI/runtime GUI lỗi, ghi startup_error.log và fatal_crash.log để tránh tool tắt im lặng. Mặc định upload bằng meta_business và bật Chrome headless."
+  "version": "1.6.3",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.6.3/VideoAutoUploader_v1.6.3.zip",
+  "sha256": "19c77b499f973e1e62d7c796bda94f1bf861baa4181bb799de0613b2ccc8e0cd",
+  "changelog": "Cập nhật v1.6.3: Thay popup kiểm tra cập nhật Qt bằng hộp thoại Win32 native; sửa quản lý QThread và signal tải; kiểm tra dung lượng, SHA256 và ZIP trước khi chạy updater; không tự đóng giao diện khi updater chưa sẵn sàng; build lại updater đồng bộ phiên bản."
 }
