@@ -1,6 +1,6 @@
 {
-  "version": "1.6.4",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.6.4/VideoAutoUploader_v1.6.4.zip",
-  "sha256": "35e9185d75c54f7e80cce16f3551a21745d84ff183eb49fb4a99061f95ff9913",
-  "changelog": "Cập nhật v1.6.4: Chuyển toàn bộ popup thông báo, cảnh báo, lỗi và xác nhận Có/Không sang Win32 native; hỗ trợ popup tự đóng theo timeout; giữ nguyên form nhập liệu, chọn file và tiến trình Qt; giảm crash sau khi tác vụ hoàn tất trên một số máy Windows."
+  "version": "1.6.5",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.6.5/VideoAutoUploader_v1.6.5.zip",
+  "sha256": "3ea07b42c037f95a622c866ddc8d3bb0a55a5f1c42d1ed9fe1730ef96b8872e8",
+  "changelog": "Cập nhật v1.6.5: Thêm cấu hình Fingerprint chống phát hiện (Antidetect) theo từng tài khoản; Tích hợp cấu hình Proxy độc lập (HTTP/SOCKS5 có User/Pass qua Local Bridge); Khắc phục lỗi kẹt 0% khi upload video qua Proxy;."
 }
