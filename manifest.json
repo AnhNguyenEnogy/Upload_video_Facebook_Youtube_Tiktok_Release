@@ -1,6 +1,6 @@
 {
-  "version": "1.6.5",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.6.5/VideoAutoUploader_v1.6.5.zip",
-  "sha256": "3ea07b42c037f95a622c866ddc8d3bb0a55a5f1c42d1ed9fe1730ef96b8872e8",
-  "changelog": "Cập nhật v1.6.5: Thêm cấu hình Fingerprint chống phát hiện (Antidetect) theo từng tài khoản; Tích hợp cấu hình Proxy độc lập (HTTP/SOCKS5 có User/Pass qua Local Bridge); Khắc phục lỗi kẹt 0% khi upload video qua Proxy;."
+  "version": "1.6.6",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.6.6/VideoAutoUploader_v1.6.6.zip",
+  "sha256": "d4bf3fc904cb890929c57399bb3b453f108b331c11678a1724614534196c9443",
+  "changelog": "Cập nhật v1.6.6: Khôi phục Popup cập nhật giao diện Dark UI trực quan hiển thị thông tin Changelog và thanh tiến trình tải; Tách độc lập tiến trình update.exe giúp tự động thay thế file an toàn không bị khóa; Sửa lỗi tự động tắt mà không thay file."
 }
