@@ -1,6 +1,6 @@
 {
-  "version": "1.6.7",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.6.7/VideoAutoUploader_v1.6.7.zip",
-  "sha256": "51a36cc541529e68417ef424aa55c43fd993db5f64da437a7764852d2567b9b8",
-  "changelog": "Cập nhật v1.6.7:\n- Kích hoạt tính năng gắn link Shopee tự động theo cờ bản quyền NEW: True.\n- Thêm nút Ẩn/Hiện Proxy bảo mật trong tab Tài khoản (mặc định ẩn mật khẩu).\n- Khắc phục triệt để lỗi NameError proxy khi tự động quét Page từ Chrome.\n- Tự động nạp Proxy và Fingerprint đồng bộ cho các luồng quét Page và xác thực tài khoản.\n- Tối ưu hóa hiệu năng, dọn dẹp mã nguồn và nâng cao tính ổn định."
+  "version": "1.6.8",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.6.8/VideoAutoUploader_v1.6.8.zip",
+  "sha256": "6f0717706593ec1734be3e7c5255fd89530c9342da6b462f3ddf525642e1aeff",
+  "changelog": "Cập nhật v1.6.8:\n- Khắc phục triệt để lỗi crash tool khi tự động quét Page Facebook từ Chrome.\n- Tự động đóng/bỏ qua các popup Cookie, Tour Meta Business Suite, cảnh báo Chrome và hội thoại xác nhận.\n- Chuyển đổi và khôi phục toàn diện chuẩn hộp thoại thông báo Native Qt6 (QMessageBox & QInputDialog).\n- Nâng cấp cơ chế trích xuất Fanpage đa tầng (Graph API Token EAA, Asset Picker, DOM và Profile Switcher).\n- Tối ưu hóa hiệu năng, tính ổn định và tốc độ xử lý tác vụ."
 }
