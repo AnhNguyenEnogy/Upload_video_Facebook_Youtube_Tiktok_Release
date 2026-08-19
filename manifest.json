@@ -1,6 +1,6 @@
 {
-  "version": "1.6.8",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.6.8/VideoAutoUploader_v1.6.8.zip",
-  "sha256": "6f0717706593ec1734be3e7c5255fd89530c9342da6b462f3ddf525642e1aeff",
-  "changelog": "Cập nhật v1.6.8:\n- Khắc phục triệt để lỗi crash tool khi tự động quét Page Facebook từ Chrome.\n- Tự động đóng/bỏ qua các popup Cookie, Tour Meta Business Suite, cảnh báo Chrome và hội thoại xác nhận.\n- Chuyển đổi và khôi phục toàn diện chuẩn hộp thoại thông báo Native Qt6 (QMessageBox & QInputDialog).\n- Nâng cấp cơ chế trích xuất Fanpage đa tầng (Graph API Token EAA, Asset Picker, DOM và Profile Switcher).\n- Tối ưu hóa hiệu năng, tính ổn định và tốc độ xử lý tác vụ."
+  "version": "1.6.9",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.6.9/VideoAutoUploader_v1.6.9.zip",
+  "sha256": "8a4023ab1620adb2058a921e813ff1da4ae95c181a32d5af9202a7272c306bb9",
+  "changelog": "Cập nhật v1.6.9:\n- Khắc phục triệt để lỗi không thể upload file video lớn hơn 50MB lên Facebook (giới hạn Playwright CDP).\n- Tự động chuyển sang chế độ launch_persistent_context cho file lớn, bypass hoàn toàn giới hạn 50MB.\n- Tích hợp đầy đủ Proxy + Vân tay Anti-detect cho chế độ upload file lớn (persistent context).\n- Sửa lỗi parse proxy format host:port:user:pass cho persistent context.\n- Tối ưu hóa luồng upload API (RUpload) bằng streaming thay vì đọc toàn bộ file vào bộ nhớ.\n- Tắt thanh cảnh báo Chrome 'unsupported command-line flag' và ngăn restore tab cũ."
 }
