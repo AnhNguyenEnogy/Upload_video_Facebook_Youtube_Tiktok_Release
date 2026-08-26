@@ -1,6 +1,6 @@
 {
-  "version": "1.6.9",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.6.9/VideoAutoUploader_v1.6.9.zip",
-  "sha256": "8a4023ab1620adb2058a921e813ff1da4ae95c181a32d5af9202a7272c306bb9",
-  "changelog": "Cập nhật v1.6.9:\n- Khắc phục triệt để lỗi không thể upload file video lớn hơn 50MB lên Facebook (giới hạn Playwright CDP).\n- Tự động chuyển sang chế độ launch_persistent_context cho file lớn, bypass hoàn toàn giới hạn 50MB.\n- Tích hợp đầy đủ Proxy + Vân tay Anti-detect cho chế độ upload file lớn (persistent context).\n- Sửa lỗi parse proxy format host:port:user:pass cho persistent context.\n- Tối ưu hóa luồng upload API (RUpload) bằng streaming thay vì đọc toàn bộ file vào bộ nhớ.\n- Tắt thanh cảnh báo Chrome 'unsupported command-line flag' và ngăn restore tab cũ."
+  "version": "1.7.0",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.7.0/VideoAutoUploader_v1.7.0.zip",
+  "sha256": "b0e264a5796e0260857b33601e4036e1310eb30a8b5d71f61a244c33e6951476",
+  "changelog": "Cập nhật v1.7.0:\n- Tối ưu hóa ngụy trang vân tay thiết bị (Anti-detect Fingerprint): Tự động nhận diện và đặt full màn hình theo máy tính thực tế.\n- Giữ nguyên tỷ lệ màn hình (DPR) gốc của máy, tránh lỗi vỡ hoặc lệch giao diện web khi chạy tự động.\n- Cửa sổ Chrome mở toàn màn hình tự nhiên khi upload Facebook Reels và gửi bình luận Shopee.\n- Nâng cấp độ ổn định cho các luồng upload đa nền tảng Facebook, YouTube, TikTok."
 }
