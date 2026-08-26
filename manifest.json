@@ -1,6 +1,6 @@
 {
-  "version": "1.7.1",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.7.1/VideoAutoUploader_v1.7.1.zip",
-  "sha256": "fb226f0148232bf422afa2eebd770a22cf21f24c688e4281a67c584c5a0e0c09",
-  "changelog": "Cập nhật v1.7.1:\n- Tối ưu hóa siêu tốc độ: Đẩy hàng trăm video sang Tác vụ chỉ trong tích tắc (nhanh gấp 1.000 lần).\n- Cuộn danh sách video và tác vụ mượt mà (Lazy/Virtualized Scroll), không còn giật lag khi tải nhiều dữ liệu.\n- Bảng danh sách video mở rộng Full màn hình trực quan và thoáng đãng.\n- Tối ưu bộ đếm thời gian và cập nhật lịch đăng tức thì không cần vẽ lại bảng.\n- Sửa lỗi crash ứng dụng khi chạy luồng tự động gắn link bình luận Shopee.\n- Giữ chuẩn tỷ lệ màn hình thực tế và full màn hình tự nhiên khi chạy tự động."
+  "version": "1.7.2",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.7.2/VideoAutoUploader_v1.7.2.zip",
+  "sha256": "8c18a86dfb58dfd942834ded1e628dd03da71ff539ddfbfaf3e269504fe64b76",
+  "changelog": "Cập nhật v1.7.2:\n- Tách luồng đăng và bình luận link: Tự động đóng hoàn toàn trình duyệt Meta Business Suite sau khi đăng xong, sau đó mở trình duyệt Facebook thông thường để bình luận link Shopee.\n- Hiển thị ID bài viết Reel tức thì: Cập nhật và lưu Reel ID lên bảng tác vụ ngay khi đăng thành công mà không cần chờ bình luận xong.\n- Kích hoạt nút Gắn link ngay khi bài viết có ID Reel.\n- Cải thiện độ ổn định và xử lý lỗi trong toàn bộ luồng tự động hóa Facebook."
 }
