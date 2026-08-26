@@ -1,6 +1,6 @@
 {
-  "version": "1.7.0",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.7.0/VideoAutoUploader_v1.7.0.zip",
-  "sha256": "b0e264a5796e0260857b33601e4036e1310eb30a8b5d71f61a244c33e6951476",
-  "changelog": "Cập nhật v1.7.0:\n- Tối ưu hóa ngụy trang vân tay thiết bị (Anti-detect Fingerprint): Tự động nhận diện và đặt full màn hình theo máy tính thực tế.\n- Giữ nguyên tỷ lệ màn hình (DPR) gốc của máy, tránh lỗi vỡ hoặc lệch giao diện web khi chạy tự động.\n- Cửa sổ Chrome mở toàn màn hình tự nhiên khi upload Facebook Reels và gửi bình luận Shopee.\n- Nâng cấp độ ổn định cho các luồng upload đa nền tảng Facebook, YouTube, TikTok."
+  "version": "1.7.1",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.7.1/VideoAutoUploader_v1.7.1.zip",
+  "sha256": "fb226f0148232bf422afa2eebd770a22cf21f24c688e4281a67c584c5a0e0c09",
+  "changelog": "Cập nhật v1.7.1:\n- Tối ưu hóa siêu tốc độ: Đẩy hàng trăm video sang Tác vụ chỉ trong tích tắc (nhanh gấp 1.000 lần).\n- Cuộn danh sách video và tác vụ mượt mà (Lazy/Virtualized Scroll), không còn giật lag khi tải nhiều dữ liệu.\n- Bảng danh sách video mở rộng Full màn hình trực quan và thoáng đãng.\n- Tối ưu bộ đếm thời gian và cập nhật lịch đăng tức thì không cần vẽ lại bảng.\n- Sửa lỗi crash ứng dụng khi chạy luồng tự động gắn link bình luận Shopee.\n- Giữ chuẩn tỷ lệ màn hình thực tế và full màn hình tự nhiên khi chạy tự động."
 }
