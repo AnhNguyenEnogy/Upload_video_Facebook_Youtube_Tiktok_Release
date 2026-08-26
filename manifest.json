@@ -1,6 +1,6 @@
 {
-  "version": "1.7.2",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.7.2/VideoAutoUploader_v1.7.2.zip",
-  "sha256": "8c18a86dfb58dfd942834ded1e628dd03da71ff539ddfbfaf3e269504fe64b76",
-  "changelog": "Cập nhật v1.7.2:\n- Tách luồng đăng và bình luận link: Tự động đóng hoàn toàn trình duyệt Meta Business Suite sau khi đăng xong, sau đó mở trình duyệt Facebook thông thường để bình luận link Shopee.\n- Hiển thị ID bài viết Reel tức thì: Cập nhật và lưu Reel ID lên bảng tác vụ ngay khi đăng thành công mà không cần chờ bình luận xong.\n- Kích hoạt nút Gắn link ngay khi bài viết có ID Reel.\n- Cải thiện độ ổn định và xử lý lỗi trong toàn bộ luồng tự động hóa Facebook."
+  "version": "1.7.3",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.7.3/VideoAutoUploader_v1.7.3.zip",
+  "sha256": "f9c8708556ae26ffc3d591cd51cb77d5bdcad004a4b39e8d5273ba82c0cf7399",
+  "changelog": "Cập nhật v1.7.3:\n- Nâng cấp bắt Token EAA tự động siêu chuẩn từ Meta Business Suite & Ads Manager (hỗ trợ đầy đủ EAAB, EAAG, EAAH, EAAW) qua cả Network Sniffing và in-browser Graph API.\n- Đồng bộ cấu hình Proxy & Vân tay thiết bị (Fingerprint Anti-Detect): Tự động nạp đúng Proxy và thông số phần cứng máy cho mọi thao tác mở Chrome, quét page và upload.\n- Giới hạn thêm tối đa 2 tài khoản Facebook đối với bản quyền chưa kích hoạt tính năng NEW.\n- Sửa lỗi tràn giao diện bảng tác vụ và tối ưu hóa hiển thị các nút thao tác."
 }
