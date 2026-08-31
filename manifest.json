@@ -1,6 +1,6 @@
 {
-  "version": "1.7.5",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.7.5/VideoAutoUploader_v1.7.5.zip",
-  "sha256": "e65dacc19fdd57ed7e874319cbbcc33f5a1f2f26ab60ef691a1b4641184fb1e5",
-  "changelog": "Cập nhật v1.7.5:\n- Khắc phục lỗi đẩy thiếu video từ Tab Đăng bài sang Tab Tác vụ: Đảm bảo 100% video (kể cả các dòng ảo hóa lazy render) được đẩy đầy đủ vào hàng đợi tác vụ.\n- Tắt hoàn toàn âm thanh trình duyệt khi upload và đăng bài (bổ sung flag --mute-audio và tiêm script can thiệp media player).\n- Sửa lỗi tự động import lại file Excel vào Tab Đăng bài khi bảng nháp trống.\n- Giữ nguyên vị trí tài khoản đang chọn khi cấu hình trong Tab Tài khoản.\n- Tối ưu hóa luồng bình luận link Shopee: Mở trực tiếp trang Facebook Watch phát video để bình luận chuẩn xác và nhanh chóng, loại bỏ các thao tác popup trung gian."
+  "version": "1.7.6",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.7.6/VideoAutoUploader_v1.7.6.zip",
+  "sha256": "1ed18c5da8ba845c4581cbb344a7251932d074e5661edcb1ac58cd83aa98400b",
+  "changelog": "Cập nhật v1.7.6:\n- Tự động khôi phục và làm sạch file job_state.json khi bị hỏng hoặc rỗng (0 byte), khắc phục triệt để lỗi lặp cảnh báo liên tục trong log."
 }
