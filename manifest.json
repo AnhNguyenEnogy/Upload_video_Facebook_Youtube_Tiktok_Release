@@ -1,6 +1,6 @@
 {
-  "version": "1.7.4",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.7.4/VideoAutoUploader_v1.7.4.zip",
-  "sha256": "cd24fa6a1c97b675b3f12ffbc62223737cb31b3d6889b656888ec548920019b1",
-  "changelog": "Cập nhật v1.7.3:\n- Nâng cấp bắt Token EAA tự động siêu chuẩn từ Meta Business Suite & Ads Manager (hỗ trợ đầy đủ EAAB, EAAG, EAAH, EAAW) qua cả Network Sniffing và in-browser Graph API.\n- Đồng bộ cấu hình Proxy & Vân tay thiết bị (Fingerprint Anti-Detect): Tự động nạp đúng Proxy và thông số phần cứng máy cho mọi thao tác mở Chrome, quét page và upload.\n- Giới hạn thêm tối đa 2 tài khoản Facebook đối với bản quyền chưa kích hoạt tính năng NEW.\n- Sửa lỗi tràn giao diện bảng tác vụ và tối ưu hóa hiển thị các nút thao tác."
+  "version": "1.7.5",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.7.5/VideoAutoUploader_v1.7.5.zip",
+  "sha256": "e65dacc19fdd57ed7e874319cbbcc33f5a1f2f26ab60ef691a1b4641184fb1e5",
+  "changelog": "Cập nhật v1.7.5:\n- Khắc phục lỗi đẩy thiếu video từ Tab Đăng bài sang Tab Tác vụ: Đảm bảo 100% video (kể cả các dòng ảo hóa lazy render) được đẩy đầy đủ vào hàng đợi tác vụ.\n- Tắt hoàn toàn âm thanh trình duyệt khi upload và đăng bài (bổ sung flag --mute-audio và tiêm script can thiệp media player).\n- Sửa lỗi tự động import lại file Excel vào Tab Đăng bài khi bảng nháp trống.\n- Giữ nguyên vị trí tài khoản đang chọn khi cấu hình trong Tab Tài khoản.\n- Tối ưu hóa luồng bình luận link Shopee: Mở trực tiếp trang Facebook Watch phát video để bình luận chuẩn xác và nhanh chóng, loại bỏ các thao tác popup trung gian."
 }
