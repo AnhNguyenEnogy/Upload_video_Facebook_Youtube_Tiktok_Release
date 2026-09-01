@@ -1,6 +1,6 @@
 {
-  "version": "1.7.6",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.7.6/VideoAutoUploader_v1.7.6.zip",
-  "sha256": "1ed18c5da8ba845c4581cbb344a7251932d074e5661edcb1ac58cd83aa98400b",
-  "changelog": "Cập nhật v1.7.6:\n- Tự động khôi phục và làm sạch file job_state.json khi bị hỏng hoặc rỗng (0 byte), khắc phục triệt để lỗi lặp cảnh báo liên tục trong log."
+  "version": "1.7.7",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.7.7/VideoAutoUploader_v1.7.7.zip",
+  "sha256": "12bffc4d6c6e8c2fe3c7ee78242d176c5ee0a928d1a336533aece4a866b8375c",
+  "changelog": "Cập nhật v1.7.7:\n- Khắc phục lỗi lấy nhầm Fanpage ID làm Reel ID khi đăng video Meta Business Suite, đảm bảo lấy đúng link video Reel để bình luận link Shopee chuẩn xác.\n- Tự động khôi phục và làm sạch file job_state.json khi bị hỏng hoặc rỗng (0 byte)."
 }
