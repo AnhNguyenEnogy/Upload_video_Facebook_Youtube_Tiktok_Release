@@ -1,6 +1,6 @@
 {
-  "version": "1.7.8",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.7.8/VideoAutoUploader_v1.7.8.zip",
-  "sha256": "114727e212488e1bdc80b0a57ff1dd020b98182828dcdbe5bf24b5b92c6757c3",
-  "changelog": "Cập nhật v1.7.8:\n- Tối ưu hóa cơ chế trích xuất Reel ID khi đăng bài qua Meta Business Suite: Tự động lọc bỏ Fanpage ID/Account ID và khôi phục quét trọn vẹn các thuộc tính ID video từ phản hồi mạng của Meta.\n- Tích hợp thêm cơ chế tự động mở trang Thước phim Fanpage để bắt chính xác Reel ID mới nhất ngay sau khi đăng."
+  "version": "1.7.9",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.7.9/VideoAutoUploader_v1.7.9.zip",
+  "sha256": "5531ff16fdf0067547a6a3ac40b09debff744494efe3772b72ce4e44369c4ff7",
+  "changelog": "Cập nhật v1.7.9:\n- Sửa lỗi bắt nhầm Reel ID bài đăng cũ khi đăng video Reels qua Meta Business Suite.\n- Lọc triệt để UID cá nhân (c_user, i_user) và Page ID, ngăn ngừa lưu nhầm ID không phải video.\n- Bổ sung cơ chế đợi Facebook mã hóa xong video và kiểm tra khớp tiêu đề trước khi tự động bình luận Shopee."
 }
