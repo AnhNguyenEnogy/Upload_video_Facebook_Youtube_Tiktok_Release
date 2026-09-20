@@ -1,6 +1,6 @@
 {
-  "version": "1.8.2",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.8.2/VideoAutoUploader_v1.8.2.zip",
-  "sha256": "11035e40bd939f07f165c7c165850a549c6c37f52eaf0326c71194e472fe52e1",
-  "changelog": "Cập nhật v1.8.2:\n- Cập nhật bộ nhận diện thương hiệu Logo Icon Facebook 3D hiện đại chuẩn app icon.\n- Tối ưu hóa cơ chế đóng gói và tương thích launcher hệ thống Windows.\n- Nâng cao độ ổn định cho luồng quét và đăng tải video Reels lên Facebook Page."
+  "version": "1.8.3",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.8.3/VideoAutoUploader_v1.8.3.zip",
+  "sha256": "1d657d7440dfa345bcee81b1bb5c55ba30904f785e0acd51dd0cee07429b3f62",
+  "changelog": "fix lỗi"
 }
