@@ -1,6 +1,6 @@
 {
-  "version": "1.8.8",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.8.8/VideoAutoUploader_v1.8.8.zip",
-  "sha256": "1e2ff050e7aef0e12747d15713a2e45add6c4cd8beb2156076bda7bdc2f966a2",
-  "changelog": "Thêm avatar tròn Fanpage/Kênh và logo nền tảng FB/YT, phân trang danh sách tác vụ 50/trang kèm bộ điều hướng và ô nhập trang trực tiếp, tối ưu mở rộng giao diện chọn kênh."
+  "version": "1.8.9",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.8.9/VideoAutoUploader_v1.8.9.zip",
+  "sha256": "8debf37e35743a74499179d96a2a205d6cbd08a7d41412ad0937735b608e173a",
+  "changelog": "Thêm tab Trang chủ Dashboard tổng quan toàn bộ tài nguyên: Thống kê chi tiết từng Page/Kênh, hiển thị avatar thật sắc nét, tìm kiếm mờ thông minh không dấu/chứa ký tự, biểu đồ phân bổ bài viết toàn hệ thống."
 }
