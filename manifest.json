@@ -1,6 +1,6 @@
 {
-  "version": "1.8.7",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.8.7/VideoAutoUploader_v1.8.7.zip",
-  "sha256": "09dba971b74f0d89d690f71750421f2e45aecf09e2e6f227bf875a305408f300",
-  "changelog": "Tối ưu và hoàn thiện đăng bài API 1 lần dứt điểm qua trình duyệt (1-shot In-Browser API) với Resumable Video API 3 pha, không nạp giao diện reels_composer"
+  "version": "1.8.8",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.8.8/VideoAutoUploader_v1.8.8.zip",
+  "sha256": "1e2ff050e7aef0e12747d15713a2e45add6c4cd8beb2156076bda7bdc2f966a2",
+  "changelog": "Thêm avatar tròn Fanpage/Kênh và logo nền tảng FB/YT, phân trang danh sách tác vụ 50/trang kèm bộ điều hướng và ô nhập trang trực tiếp, tối ưu mở rộng giao diện chọn kênh."
 }
