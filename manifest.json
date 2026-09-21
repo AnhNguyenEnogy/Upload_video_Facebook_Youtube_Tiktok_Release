@@ -1,6 +1,6 @@
 {
-  "version": "1.8.6",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.8.6/VideoAutoUploader_v1.8.6.zip",
-  "sha256": "6837365dcbb56cc7342fd38ce5a9cae89830b37ef81a782db372b81e31460c37",
-  "changelog": "Tối ưu trích xuất token trực tiếp từ Chrome cho InBrowser API, loại bỏ token cũ lỗi"
+  "version": "1.8.7",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_video_Facebook_Youtube_Tiktok_Release/releases/download/v1.8.7/VideoAutoUploader_v1.8.7.zip",
+  "sha256": "09dba971b74f0d89d690f71750421f2e45aecf09e2e6f227bf875a305408f300",
+  "changelog": "Tối ưu và hoàn thiện đăng bài API 1 lần dứt điểm qua trình duyệt (1-shot In-Browser API) với Resumable Video API 3 pha, không nạp giao diện reels_composer"
 }
